@@ -3,5 +3,4 @@
 - 👨‍💻 I’m currently learning C# & Java (slowly)
 - 📫 You can reach me here: sammycodesthings@gmail.com
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-Discord : Sammyy#9599
+- Discord : Sammyy#9599
